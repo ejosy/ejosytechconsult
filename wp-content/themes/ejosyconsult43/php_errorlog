@@ -1,0 +1,4 @@
+[30-Jan-2021 20:49:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function have_posts() in /home/intell77/public_html/ejosytechconsult.com/wp-content/themes/ejosyconsult43/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/intell77/public_html/ejosytechconsult.com/wp-content/themes/ejosyconsult43/index.php on line 2
